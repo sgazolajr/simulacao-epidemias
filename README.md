@@ -1,6 +1,6 @@
 # simulacao-epidemias
 
-Exercício do trabalho 1 da Disciplina: SME0805 - Processos Estocásticos - USP - ICMC
+Exercício do trabalho 2 da Disciplina: SME0805 - Processos Estocásticos - USP - ICMC
 
 Professor orientador: Francisco Aparecido Rodrigues - @franciscoicmc
 
